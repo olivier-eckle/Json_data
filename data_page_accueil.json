@@ -1,6 +1,6 @@
 [
-  {"nom": "Deezer", "url": "https://www.deezer.com/fr/", "url_image": "https://i.ibb.co/fQHhJn0/Deezer.png"},
-  {"nom": "Netflix", "url": "https://www.netflix.com/", "url_image": "https://i.ibb.co/TPd27kq/Netflix.png"},
+  {"nom": "Deezer", "url": "https://www.deezer.com/fr/", "url_image": "./Images/Deezer.png"},
+  {"nom": "Netflix", "url": "https://www.netflix.com/", "url_image": "./Images/Netflix.png"},
   {"nom": "Apple", "url": "https://www.apple.com/fr/", "url_image": "./Images/Apple.png"},
   {"nom": "UHA", "url": "https://e-services.uha.fr/fr/index.html", "url_image": "./Images/UHA.png"},
   {"nom": "CodePen", "url": "https://codepen.io/", "url_image": "./Images/Code-Pen-io.png"},
